@@ -1,2 +1,9 @@
-# polynomial-expression
-A simple Python tool to create, parse, and evaluate polynomial expressions. Supports operations like addition, multiplication, differentiation, and root-finding. Includes clear examples and basic tests, perfect for beginners learning polynomial handling.”
+<!DOCTYPE html>
+<html>
+  <head>polynomial expression</head>
+  <body>
+    <h2>polynomial expression</h2>
+    <p>A<sub>0</sub>+A<sub>1</sub>>x<sup>1</sup>+A<sub>2</sub>
+    x<sup>2</sup>+A<sub>3</sub>x<sup>3</sup>></p>
+  </body>
+</html>
